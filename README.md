@@ -8,11 +8,11 @@ An employee can approve or deny accounts and view account balances for their cus
 
 # Technologies Used
 
-Tech 1 - Java
-Tech 2 - JDBC
-Tech 3 - Junit
-Tech 4 - Log4j
-Tech 5 - Maven
+> Java
+> JDBC
+> Junit
+> Log4j
+> Maven
 
 
 # Features
